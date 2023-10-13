@@ -1,3 +1,10 @@
+<div id="header" align="center">
+  ![image](https://github.com/taylorturner/taylorturner/assets/29558698/9cc4564f-09ee-41b8-bec6-12600fc4a0b5)
+</div>
+
+![image](https://github.com/taylorturner/taylorturner/assets/29558698/9cc4564f-09ee-41b8-bec6-12600fc4a0b5)
+
+
 ### Hi there 👋
 
 <!--
@@ -19,8 +26,18 @@ Here are some ideas to get you started:
 Hello! I'm Taylor Turner, a DevOps aficionado, cloud enthusiast, and avid pursuer of knowledge. Over the years, I've embarked on several technological adventures, traversed a multitude of cloud platforms, and brewed countless cups of coffee. When I'm not working, I enjoy time with my Wife, two sons, and two dogs camping or exploring new places.
 
 ## Tech Stack and Skills
-Cloud Platforms: Mostly AWS, some Azure, little GCP.
+Cloud Platforms:
+- 10 years working with AWS
+- 2 years with Azure
 
+Operating Systems:
+- 8 years with Ubuntu
+- 8 years with CentOS/Amazon Linux 2
+- 2 years with Microsoft Server
+
+Databases:
+- 7 years with MySQL
+- 5 years with PostgreSQL
 
 
 ## Education
