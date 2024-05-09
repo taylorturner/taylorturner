@@ -1,68 +1,52 @@
-<div id="header" align="center">
-  ![image](https://github.com/taylorturner/taylorturner/assets/29558698/9cc4564f-09ee-41b8-bec6-12600fc4a0b5)
-</div>
 
 ![image](https://github.com/taylorturner/taylorturner/assets/29558698/9cc4564f-09ee-41b8-bec6-12600fc4a0b5)
 
 
 ### Hi there 👋
 
-<!--
-**taylorturner/taylorturner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## Summary
-Hello! I'm Taylor Turner, a DevOps aficionado, cloud enthusiast, and avid pursuer of knowledge. Over the years, I've embarked on several technological adventures, traversed a multitude of cloud platforms, and brewed countless cups of coffee. When I'm not working, I enjoy time with my Wife, two sons, and two dogs camping or exploring new places.
+Hello! I'm Taylor Turner, a DevOps/Site Reliability/Platform Engineer born and raised in the San Francisco Bay Area. I've been working in the DevOps space since 2012; my focus has been on enabling developer velocity through close collaboration and supporting their teams with tooling, code pipelines, monitoring, and much more. A strong second is on architecting scalable, highly available infrastructure and implementing thoughtful monitoring practices to provide much needed insights to prevent outages.
 
-## Tech Stack and Skills
-Cloud Platforms:
-- 10 years working with AWS
-- 2 years with Azure
+I'm certified as an AWS DevOps Engineer (Professional), AWS Solutions Architect (Professional), Red Hat Certified Engineer (and System Administrator), A+/Net+/Linux+, and soon CKA.
 
-Operating Systems:
-- 8 years with Ubuntu
-- 8 years with CentOS/Amazon Linux 2
-- 2 years with Microsoft Server
+## Technical Strengths
+- AWS (EC2, RDS, VPC, EKS, ECS, IAM, Lambda, API Gateway, SQS, SNS, R53, KMS, Secrets Manager, CloudWatch etc.)
+- Containerization, Kubernetes, Helm, CNI networking, Unix
+- Terraform, Ansible, Puppet, Cloudformation, boto3
+- CI/CD (GHA, Jenkins, CircleCI, GitLab, Travis, ArgoCD)
+- Monitoring (Datadog, Grafana, Prometheus, Graphite, Nagios, Cacti, ELK)
+- Python, Bash, some C+, Javascript, Golang
+- Process optimization, project management, troubleshooting, documentation, diagramming, and more
 
-Databases:
-- 7 years with MySQL
-- 5 years with PostgreSQL
+## What's the best way to communicate with me?
+For synchronous communication, Meet/Zoom > Slack > Email. For asynchronous communication, Slack is always best.
+
+For discussing projects, I prefer high-bandwidth communication in the form of Meet/Zoom or in-person (where applicable).
+
+I prefer direct and analytical communication. I like to know the facts and key deliverables, but I'm also happy to help figure out those things as we go. At times I can be very to the point and it may come across as cold. This usually means I'm deep in thought and working through the problem internally. 
+
+Never hesitate to bug me on Slack if I failed to respond to you. I have a terrible habit of reading a message and jumping into finding the answer without acknowledging that I read it. You'll find that I have the answer for you I may have just been pulled in another direction before getting back to you.
+
+## I'm always happy to help with...
+Troubleshooting or debugging, creating design docs (or other useful documentation), defining project deliverables, mentorship on the above technologies, sharing embarassing moments and stupid mistakes from the past, and really anything else! If you're honestly stuck I'll do my best to help in whatever capacity I can.
+
+## What makes me grumpy?
+I tend to dislike unstructured meetings or general unpreparedness. I prefer to have a clear agenda for upcoming meetings so that I can come prepared to discuss the topics you have in mind. If you're unsure of the agenda, shoot me a Slack message and I'll gladly help you come up with one!
+
+## How do I like to give feedback?
+When it comes to giving personal feedback, I prefer written form where I can take my time and carefully articulate my responses. If I need to provide negative feedback I try to be conscientious of my wording to ensure it comes across as helpful as possible.
+
+I'm usually openly complementative when recogizing peers for doing great work either on Slack or on team calls. If you would prefer that I don't do this in public forums, please let me know.
+
+## How do I like to receive feedback?
+In general, I prefer feedback via Slack or email but what's most important is that you share your feedback with my in whatever way is comfortable. 
+
+I'm always open to hearing feedback, at any time. If there is something I could be doing better, PLEASE speak up and let me know. If you're not comfortable giving it to me directly, feel free to pass it along to my manager.
+
+## What are some of my interests outside of work?
+Racing, I'm a huge fan of F1 and I have a simracing setup at my house that I play in my free time. I'm also an avid gamer in general, it's something I do with my older son whenever I can. Lately we've been playing Fortnite and Valorant.
+
+Once upon a time I was really into bodybuilding, I'm still passionate about fitness and cooking. I also enjoy outdoor sports like hiking, skiing/snowboarding, dirt bikes, etc.
 
 
-## Education
-Certified Solutions Architect – Associate, Amazon Web Services, 2018
-Red Hat Certified Engineer, Red Hat Academy, 2013
-Associates Degree in Linux Administration and Networking, Empire College, 2010-2012
-
-## Skills
-Cloud Platforms: AWS, Azure, GCP
-Programming: Python, Bash
-Containerization: Kubernetes, Docker
-... [and so on for other skills]
-
-## Fun Facts
-☕ I've probably consumed enough coffee to fill a small lake.
-🚀 My favorite quote: "The only way to do great work is to love what you do." - Steve Jobs
-📚 Currently reading: The Fourth Wing
-... [and other fun/personal tidbits about you]
-
-## Connect with Me
-LinkedIn: [Your LinkedIn Profile]
-Email: [Your Email]
-Slack: @[Your Slack Handle]
-[any other contact method or social media]
-How to Work with Me
-🌍 I'm a big believer in collaboration and open communication.
-🤔 I'm always up for a brainstorming session or a quick chat.
-😊 If you need help, advice, or just want to discuss the latest in cloud tech, don't hesitate to reach out!
