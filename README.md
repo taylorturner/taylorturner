@@ -6,7 +6,7 @@
 
 
 ## Summary
-Hello! I'm Taylor Turner, a DevOps/Site Reliability/Platform Engineer born and raised in the San Francisco Bay Area. I've been working in the DevOps space since 2012; my focus has been on enabling developer velocity through close collaboration and supporting their teams with tooling, code pipelines, monitoring, and much more. A strong second is on architecting scalable, highly available infrastructure and implementing thoughtful monitoring practices to provide much needed insights to prevent outages.
+Hello! I'm Taylor Turner, a DevOps/Site Reliability/Platform Engineer born and raised in the San Francisco Bay Area. I've been working as a DevOps // SRE since 2012; my focus has been on enabling developer velocity through close collaboration and supporting their teams with tooling, code pipelines, monitoring, and much more. A strong second is on architecting scalable, highly available infrastructure and implementing thoughtful monitoring practices to provide much needed insights to prevent outages.
 
 I'm certified as an AWS DevOps Engineer (Professional), AWS Solutions Architect (Professional), Red Hat Certified Engineer (and System Administrator), A+/Net+/Linux+, and soon CKA.
 
@@ -31,16 +31,13 @@ Never hesitate to bug me on Slack if I failed to respond to you. I have a terrib
 ## I'm always happy to help with...
 Troubleshooting or debugging, creating design docs (or other useful documentation), defining project deliverables, mentorship on the above technologies, sharing embarassing moments and stupid mistakes from the past, and really anything else! If you're honestly stuck I'll do my best to help in whatever capacity I can.
 
-## What makes me grumpy?
-I tend to dislike unstructured meetings or general unpreparedness. I prefer to have a clear agenda for upcoming meetings so that I can come prepared to discuss the topics you have in mind. If you're unsure of the agenda, shoot me a Slack message and I'll gladly help you come up with one!
-
 ## How do I like to give feedback?
 When it comes to giving personal feedback, I prefer written form where I can take my time and carefully articulate my responses. If I need to provide negative feedback I try to be conscientious of my wording to ensure it comes across as helpful as possible.
 
 I'm usually openly complementative when recogizing peers for doing great work either on Slack or on team calls. If you would prefer that I don't do this in public forums, please let me know.
 
 ## How do I like to receive feedback?
-In general, I prefer feedback via Slack or email but what's most important is that you share your feedback with my in whatever way is comfortable. 
+In general, I prefer feedback via Slack or email. What's most important is that you share your feedback with me in whatever way is comfortable for you. 
 
 I'm always open to hearing feedback, at any time. If there is something I could be doing better, PLEASE speak up and let me know. If you're not comfortable giving it to me directly, feel free to pass it along to my manager.
 
